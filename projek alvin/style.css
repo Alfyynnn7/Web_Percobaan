@@ -1,0 +1,51 @@
+body {
+  background-image: url("img/latar.jpeg");
+  background-color: #1d09097c;
+  min-height: 200px;
+}
+
+.jumbotron {
+  padding: 5rem;
+  background-color: rgba(74, 74, 71, 0.747);
+  height: 200px;
+  width: 750px;
+}
+
+/* Navbar Styling */
+.navbar {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/* Custom styles for additional spacing */
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+/* Move the "Home" link to the right */
+.ml-auto {
+  margin-left: auto !important;
+}
+.jumbotron .style {
+  font-size:x-large;
+  font-style:inherit;
+}
+
+.btn {
+  background-color:brown;
+  border:none;
+}
+
+button {
+  background-color: brown;
+}
+
+.footer-wrap {
+  background-color: #444444;
+  color: #fff;
+}
